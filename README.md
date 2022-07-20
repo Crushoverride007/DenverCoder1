@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project/pull/18) in [Your-First-Open-Source-Project/Your-First-Open-Source-Project](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project)
-2. 🎉 Merged PR [#16](https://github.com/Crushoverride007/Laravel-DevOps/pull/16) in [Crushoverride007/Laravel-DevOps](https://github.com/Crushoverride007/Laravel-DevOps)
-3. 💪 Opened PR [#16](https://github.com/Crushoverride007/Laravel-DevOps/pull/16) in [Crushoverride007/Laravel-DevOps](https://github.com/Crushoverride007/Laravel-DevOps)
-4. 🎉 Merged PR [#3](https://github.com/Crushoverride007/spacedrive/pull/3) in [Crushoverride007/spacedrive](https://github.com/Crushoverride007/spacedrive)
-5. 🎉 Merged PR [#15](https://github.com/Crushoverride007/Laravel-DevOps/pull/15) in [Crushoverride007/Laravel-DevOps](https://github.com/Crushoverride007/Laravel-DevOps)
+1. 🎉 Merged PR [#7](https://github.com/Crushoverride007/server/pull/7) in [Crushoverride007/server](https://github.com/Crushoverride007/server)
+2. 💪 Opened PR [#18](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project/pull/18) in [Your-First-Open-Source-Project/Your-First-Open-Source-Project](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project)
+3. 🎉 Merged PR [#16](https://github.com/Crushoverride007/Laravel-DevOps/pull/16) in [Crushoverride007/Laravel-DevOps](https://github.com/Crushoverride007/Laravel-DevOps)
+4. 💪 Opened PR [#16](https://github.com/Crushoverride007/Laravel-DevOps/pull/16) in [Crushoverride007/Laravel-DevOps](https://github.com/Crushoverride007/Laravel-DevOps)
+5. 🎉 Merged PR [#3](https://github.com/Crushoverride007/spacedrive/pull/3) in [Crushoverride007/spacedrive](https://github.com/Crushoverride007/spacedrive)
 <!--END_SECTION:activity-->
 </details>
 
