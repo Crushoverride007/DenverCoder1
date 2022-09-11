@@ -199,7 +199,7 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-[![Automatically Deploy to Fly.io from GitHub with Actions](https://freshidea.com/jonah/app/youtube-card/?id=6u9BrDaSHJc)](https://www.youtube.com/watch?v=6u9BrDaSHJc "Automatically Deploy to Fly.io from GitHub with Actions")
+[![Automatically Deploy to Fly.io with GitHub Actions](https://freshidea.com/jonah/app/youtube-card/?id=6u9BrDaSHJc)](https://www.youtube.com/watch?v=6u9BrDaSHJc "Automatically Deploy to Fly.io with GitHub Actions")
 [![Hosting a Python Discord Bot for Free with Fly.io](https://freshidea.com/jonah/app/youtube-card/?id=J7Fm7MdZn_E)](https://www.youtube.com/watch?v=J7Fm7MdZn_E "Hosting a Python Discord Bot for Free with Fly.io")
 [![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;")
 [![Run Open Source Code in Seconds with GitPod](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw "Run Open Source Code in Seconds with GitPod")
