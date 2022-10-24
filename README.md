@@ -229,9 +229,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/leolabs/alfred-icloud-passwords/issues/1) in [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords)
 2. 🗣 Commented on [#1](https://github.com/leolabs/alfred-icloud-passwords/issues/1) in [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords)
-3. 💪 Opened PR [#12](https://github.com/Crushoverride007/dashboard-matrix/pull/12) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
-4. 💪 Opened PR [#11](https://github.com/Crushoverride007/dashboard-matrix/pull/11) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
-5. 💪 Opened PR [#10](https://github.com/Crushoverride007/dashboard-matrix/pull/10) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
+3. 🗣 Commented on [#1](https://github.com/leolabs/alfred-icloud-passwords/issues/1) in [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords)
+4. 💪 Opened PR [#12](https://github.com/Crushoverride007/dashboard-matrix/pull/12) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
+5. 💪 Opened PR [#11](https://github.com/Crushoverride007/dashboard-matrix/pull/11) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
 <!--END_SECTION:activity-->
 </details>
 
