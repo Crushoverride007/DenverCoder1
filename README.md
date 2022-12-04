@@ -227,10 +227,10 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Crushoverride007/spacedrive/pull/4) in [Crushoverride007/spacedrive](https://github.com/Crushoverride007/spacedrive)
-2. 🗣 Commented on [#1](https://github.com/leolabs/alfred-icloud-passwords/issues/1) in [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords)
-3. 🗣 Commented on [#1](https://github.com/leolabs/alfred-icloud-passwords/issues/1) in [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords)
-4. 💪 Opened PR [#12](https://github.com/Crushoverride007/dashboard-matrix/pull/12) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
+1. ❗️ Closed issue [#5](https://github.com/DataProt/front-portal/issues/5) in [DataProt/front-portal](https://github.com/DataProt/front-portal)
+2. ❗️ Opened issue [#5](https://github.com/DataProt/front-portal/issues/5) in [DataProt/front-portal](https://github.com/DataProt/front-portal)
+3. ❗️ Opened issue [#4](https://github.com/DataProt/front-portal/issues/4) in [DataProt/front-portal](https://github.com/DataProt/front-portal)
+4. 🎉 Merged PR [#4](https://github.com/Crushoverride007/spacedrive/pull/4) in [Crushoverride007/spacedrive](https://github.com/Crushoverride007/spacedrive)
 5. 💪 Opened PR [#11](https://github.com/Crushoverride007/dashboard-matrix/pull/11) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
 <!--END_SECTION:activity-->
 </details>
