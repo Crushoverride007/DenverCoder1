@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/DataProt/front-portal/issues/5) in [DataProt/front-portal](https://github.com/DataProt/front-portal)
-2. ❗️ Opened issue [#5](https://github.com/DataProt/front-portal/issues/5) in [DataProt/front-portal](https://github.com/DataProt/front-portal)
-3. ❗️ Opened issue [#4](https://github.com/DataProt/front-portal/issues/4) in [DataProt/front-portal](https://github.com/DataProt/front-portal)
-4. 🎉 Merged PR [#4](https://github.com/Crushoverride007/spacedrive/pull/4) in [Crushoverride007/spacedrive](https://github.com/Crushoverride007/spacedrive)
-5. 💪 Opened PR [#11](https://github.com/Crushoverride007/dashboard-matrix/pull/11) in [Crushoverride007/dashboard-matrix](https://github.com/Crushoverride007/dashboard-matrix)
+1. 💪 Opened PR [#19](https://github.com/Crushoverride007/Project-Sigma/pull/19) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+2. 💪 Opened PR [#18](https://github.com/Crushoverride007/Project-Sigma/pull/18) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+3. 💪 Opened PR [#17](https://github.com/Crushoverride007/Project-Sigma/pull/17) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+4. 💪 Opened PR [#16](https://github.com/Crushoverride007/Project-Sigma/pull/16) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+5. ❗️ Opened issue [#7](https://github.com/DataProt/front-portal/issues/7) in [DataProt/front-portal](https://github.com/DataProt/front-portal)
 <!--END_SECTION:activity-->
 </details>
 
