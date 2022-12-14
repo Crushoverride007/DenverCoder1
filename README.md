@@ -229,9 +229,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
 2. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
-3. 💪 Opened PR [#135](https://github.com/nimsandu/spicetify-bloom/pull/135) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
+3. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
 4. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
-5. ❗️ Opened issue [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
+5. 💪 Opened PR [#135](https://github.com/nimsandu/spicetify-bloom/pull/135) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
 <!--END_SECTION:activity-->
 </details>
 
