@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
-2. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
+1. 💪 Opened PR [#22](https://github.com/Crushoverride007/Project-Sigma/pull/22) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+2. 💪 Opened PR [#21](https://github.com/Crushoverride007/Project-Sigma/pull/21) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 3. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
 4. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
-5. 💪 Opened PR [#135](https://github.com/nimsandu/spicetify-bloom/pull/135) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
+5. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
 <!--END_SECTION:activity-->
 </details>
 
