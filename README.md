@@ -227,9 +227,9 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Crushoverride007/Project-Sigma/pull/22) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-2. 💪 Opened PR [#21](https://github.com/Crushoverride007/Project-Sigma/pull/21) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-3. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
+1. 🗣 Commented on [#1](https://github.com/leolabs/alfred-icloud-passwords/issues/1) in [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords)
+2. 💪 Opened PR [#22](https://github.com/Crushoverride007/Project-Sigma/pull/22) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+3. 💪 Opened PR [#21](https://github.com/Crushoverride007/Project-Sigma/pull/21) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 4. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
 5. 🗣 Commented on [#131](https://github.com/nimsandu/spicetify-bloom/issues/131) in [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
 <!--END_SECTION:activity-->
