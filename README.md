@@ -227,8 +227,8 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/Crushoverride007/Project-Sigma/pull/37) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-2. 💪 Opened PR [#29](https://github.com/Crushoverride007/Project-Sigma/pull/29) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+1. 💪 Opened PR [#42](https://github.com/Crushoverride007/Project-Sigma/pull/42) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+2. 💪 Opened PR [#37](https://github.com/Crushoverride007/Project-Sigma/pull/37) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 3. 💪 Opened PR [#28](https://github.com/Crushoverride007/Project-Sigma/pull/28) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 4. 💪 Opened PR [#27](https://github.com/Crushoverride007/Project-Sigma/pull/27) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 5. 🗣 Commented on [#1](https://github.com/leolabs/alfred-icloud-passwords/issues/1) in [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords)
