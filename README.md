@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/Crushoverride007/Project-Sigma/pull/60) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-2. 💪 Opened PR [#59](https://github.com/Crushoverride007/Project-Sigma/pull/59) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-3. 💪 Opened PR [#58](https://github.com/Crushoverride007/Project-Sigma/pull/58) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-4. 💪 Opened PR [#57](https://github.com/Crushoverride007/Project-Sigma/pull/57) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-5. 💪 Opened PR [#56](https://github.com/Crushoverride007/Project-Sigma/pull/56) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+1. 💪 Opened PR [#62](https://github.com/Crushoverride007/Project-Sigma/pull/62) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+2. 💪 Opened PR [#61](https://github.com/Crushoverride007/Project-Sigma/pull/61) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+3. 💪 Opened PR [#60](https://github.com/Crushoverride007/Project-Sigma/pull/60) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+4. 💪 Opened PR [#59](https://github.com/Crushoverride007/Project-Sigma/pull/59) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+5. 💪 Opened PR [#58](https://github.com/Crushoverride007/Project-Sigma/pull/58) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 <!--END_SECTION:activity-->
 </details>
 
