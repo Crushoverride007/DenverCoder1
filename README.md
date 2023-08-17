@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/Crushoverride007/Project-Sigma/pull/165) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-2. 💪 Opened PR [#164](https://github.com/Crushoverride007/Project-Sigma/pull/164) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-3. 💪 Opened PR [#163](https://github.com/Crushoverride007/Project-Sigma/pull/163) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-4. 💪 Opened PR [#162](https://github.com/Crushoverride007/Project-Sigma/pull/162) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-5. 💪 Opened PR [#161](https://github.com/Crushoverride007/Project-Sigma/pull/161) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+1. 🗣 Commented on [#308](https://github.com/salesagility/SuiteCRM-Core/issues/308) in [salesagility/SuiteCRM-Core](https://github.com/salesagility/SuiteCRM-Core)
+2. ❗️ Opened issue [#308](https://github.com/salesagility/SuiteCRM-Core/issues/308) in [salesagility/SuiteCRM-Core](https://github.com/salesagility/SuiteCRM-Core)
+3. 💪 Opened PR [#165](https://github.com/Crushoverride007/Project-Sigma/pull/165) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+4. 💪 Opened PR [#164](https://github.com/Crushoverride007/Project-Sigma/pull/164) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+5. 💪 Opened PR [#163](https://github.com/Crushoverride007/Project-Sigma/pull/163) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 <!--END_SECTION:activity-->
 </details>
 
