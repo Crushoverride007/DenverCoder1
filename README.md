@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Crushoverride007/Crushoverride007/pull/9) in [Crushoverride007/Crushoverride007](https://github.com/Crushoverride007/Crushoverride007)
-2. ❗️ Opened issue [#1683](https://github.com/spacedriveapp/spacedrive/issues/1683) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-3. 💪 Opened PR [#231](https://github.com/Crushoverride007/Project-Sigma/pull/231) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-4. 💪 Opened PR [#230](https://github.com/Crushoverride007/Project-Sigma/pull/230) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-5. 💪 Opened PR [#229](https://github.com/Crushoverride007/Project-Sigma/pull/229) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+1. 💪 Opened PR [#233](https://github.com/Crushoverride007/Project-Sigma/pull/233) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+2. 💪 Opened PR [#232](https://github.com/Crushoverride007/Project-Sigma/pull/232) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+3. 💪 Opened PR [#9](https://github.com/Crushoverride007/Crushoverride007/pull/9) in [Crushoverride007/Crushoverride007](https://github.com/Crushoverride007/Crushoverride007)
+4. ❗️ Opened issue [#1683](https://github.com/spacedriveapp/spacedrive/issues/1683) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+5. 💪 Opened PR [#231](https://github.com/Crushoverride007/Project-Sigma/pull/231) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 <!--END_SECTION:activity-->
 </details>
 
