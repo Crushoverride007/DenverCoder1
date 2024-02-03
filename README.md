@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#334](https://github.com/Crushoverride007/Project-Sigma/pull/334) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-2. 💪 Opened PR [#333](https://github.com/Crushoverride007/Project-Sigma/pull/333) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-3. ❗️ Opened issue [#145](https://github.com/mautrix/instagram/issues/145) in [mautrix/instagram](https://github.com/mautrix/instagram)
-4. 💪 Opened PR [#332](https://github.com/Crushoverride007/Project-Sigma/pull/332) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
-5. 💪 Opened PR [#331](https://github.com/Crushoverride007/Project-Sigma/pull/331) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+1. 💪 Opened PR [#335](https://github.com/Crushoverride007/Project-Sigma/pull/335) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+2. 💪 Opened PR [#334](https://github.com/Crushoverride007/Project-Sigma/pull/334) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+3. 💪 Opened PR [#333](https://github.com/Crushoverride007/Project-Sigma/pull/333) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
+4. ❗️ Opened issue [#145](https://github.com/mautrix/instagram/issues/145) in [mautrix/instagram](https://github.com/mautrix/instagram)
+5. 💪 Opened PR [#332](https://github.com/Crushoverride007/Project-Sigma/pull/332) in [Crushoverride007/Project-Sigma](https://github.com/Crushoverride007/Project-Sigma)
 <!--END_SECTION:activity-->
 </details>
 
